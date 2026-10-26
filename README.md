@@ -15,6 +15,7 @@ I design, build, and support secure network and cloud infrastructure across mana
 - [AWS VPC reference architecture](https://github.com/ahsansid23/cloud-network-engineering/tree/main/projects/aws-vpc-terraform)
 - [Network configuration backup](https://github.com/ahsansid23/cloud-network-engineering/tree/main/projects/ansible-config-backup)
 - [Network health report](https://github.com/ahsansid23/cloud-network-engineering/tree/main/projects/network-health-report)
+- [BGP peer health audit](https://github.com/ahsansid23/cloud-network-engineering/tree/main/projects/bgp-peer-audit)
 
 ## Technologies
 **Cloud and platforms:** AWS, Microsoft Azure, Red Hat OpenShift, Kubernetes, VMware, Docker  
